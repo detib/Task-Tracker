@@ -41,6 +41,7 @@ body {
     background: #505050;
 }
 
+
 @media (max-width: 500px) {
     .main-box {
         width: 90%;
